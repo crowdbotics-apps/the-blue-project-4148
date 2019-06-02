@@ -1,0 +1,3 @@
+rootProject.name = 'the_blue_project_4148'
+
+include ':app'
